@@ -6,6 +6,9 @@
   </head>
   <body>
     <div class="container">
+      <header>
+  
+      </header>
   <a href="./index.php">home</a> | <a href="./about.php">about</a> | <a href="./contact.php">contact</a>
       <h1>contact Markus</h1>
     </div>
