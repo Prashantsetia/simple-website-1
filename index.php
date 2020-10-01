@@ -8,7 +8,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="brand">
+      <div class="brand" style="border:2px solid red; background-color:rgba(0,0,0,0.5);">
         <h1>Markus L. Gamble</h1>
         <p>Web Developer</p>
       </div>
